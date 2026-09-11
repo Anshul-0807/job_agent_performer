@@ -1,0 +1,12 @@
+SPAWNED shim pid=2092
+t=  3s shim_alive=True | status.running=True last=Starting... | stopfile=False
+t=  6s shim_alive=True | status.running=True last=Starting... | stopfile=False
+t=  9s shim_alive=True | status.running=False last=Loop mode - waiting 60 min for next cycle | stopfile=False
+STOP REQUESTED at t=9
+t= 12s shim_alive=True | status.running=False last=Loop mode - waiting 60 min for next cycle | stopfile=True
+t= 15s shim_alive=True | status.running=False last=Stopped by user | stopfile=True
+t= 18s shim_alive=True | status.running=False last=Stopped by user | stopfile=True
+t= 21s shim_alive=True | status.running=False last=Stopped by user | stopfile=True
+t= 24s shim_alive=True | status.running=False last=Stopped by user | stopfile=True
+t= 27s shim_alive=True | status.running=False last=Stopped by user | stopfile=True
+MONITOR DONE

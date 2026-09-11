@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+
+# Virtual environments
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+config/resume.pdf
+config/profile.json
+output/scraped_jobs.json
+output/scored_jobs.json
+output/applied_jobs.json
+logs/apply_log.txt
+
+# Playwright
+playwright/.cache/
+
+# Test
+.pytest_cache/
+.coverage

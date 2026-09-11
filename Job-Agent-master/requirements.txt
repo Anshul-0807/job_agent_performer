@@ -1,0 +1,29 @@
+# ============================================================
+#  requirements.txt — AI Job Agent (FREE Groq Version)
+#  Install everything with: pip install -r requirements.txt
+# ============================================================
+
+# ── Browser Automation ───────────────────────────────────────
+playwright>=1.40.0          # Browser automation (scraping + applying)
+
+# ── HTTP Requests ────────────────────────────────────────────
+httpx>=0.26.0               # Sending requests to Groq API
+
+# ── PDF Resume Reading ───────────────────────────────────────
+pypdf>=3.0.0                # Read and extract text from PDF resume
+
+# ── Terminal Colors (Windows) ────────────────────────────────
+colorama>=0.4.6             # Colored output in Windows terminal
+
+# ── Data Handling ────────────────────────────────────────────
+# json    — built into Python (no install needed)
+# pathlib — built into Python (no install needed)
+# asyncio — built into Python (no install needed)
+# re      — built into Python (no install needed)
+# sys     — built into Python (no install needed)
+# subprocess — built into Python (no install needed)
+# collections — built into Python (no install needed)
+# datetime — built into Python (no install needed)
+
+# ── UI Dashboard ─────────────────────────────────────────────
+streamlit>=1.33.0            # Web UI to enter credentials + see reports

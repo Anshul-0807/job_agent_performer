@@ -1,0 +1,151 @@
+
+==========================================================
+  [AI]  AI JOB AGENT  -  100% FREE  (Groq API Powered)
+  QA Engineer / Manual Tester Edition
+  Started : 21 Aug 2026  00:59
+==========================================================
+
+[INFO] STEP 2: Loaded 0 existing scraped jobs
+
+[INFO] STEP 3: Loaded 0 scored jobs
+
+[INFO] STEP 4: Auto-Apply 
+Traceback (most recent call last):
+  File "C:\Users\91929\Downloads\Job-Agent-master\Job-Agent-master\main.py", line 184, in <module>
+    asyncio.run(main())
+  File "C:\Users\91929\anaconda3\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\91929\anaconda3\lib\asyncio\base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "C:\Users\91929\Downloads\Job-Agent-master\Job-Agent-master\main.py", line 172, in main
+    await run_pipeline(args)
+  File "C:\Users\91929\Downloads\Job-Agent-master\Job-Agent-master\main.py", line 115, in run_pipeline
+    await run_auto_apply(
+  File "C:\Users\91929\Downloads\Job-Agent-master\Job-Agent-master\scripts\auto_applier.py", line 752, in run_auto_apply
+    print("\u274c No scored jobs. Run ai_matcher.py first.")
+  File "C:\Users\91929\anaconda3\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+
+==========================================================
+  [AI]  AI JOB AGENT  -  100% FREE  (Groq API Powered)
+  QA Engineer / Manual Tester Edition
+  Started : 21 Aug 2026  00:59
+==========================================================
+
+[INFO] STEP 2: Loaded 0 existing scraped jobs
+
+[INFO] STEP 3: Loaded 0 scored jobs
+
+[INFO] STEP 4: Auto-Apply 
+Traceback (most recent call last):
+  File "C:\Users\91929\Downloads\Job-Agent-master\Job-Agent-master\main.py", line 184, in <module>
+    asyncio.run(main())
+  File "C:\Users\91929\anaconda3\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\91929\anaconda3\lib\asyncio\base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "C:\Users\91929\Downloads\Job-Agent-master\Job-Agent-master\main.py", line 172, in main
+    await run_pipeline(args)
+  File "C:\Users\91929\Downloads\Job-Agent-master\Job-Agent-master\main.py", line 115, in run_pipeline
+    await run_auto_apply(
+  File "C:\Users\91929\Downloads\Job-Agent-master\Job-Agent-master\scripts\auto_applier.py", line 752, in run_auto_apply
+    print("\u274c No scored jobs. Run ai_matcher.py first.")
+  File "C:\Users\91929\anaconda3\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+
+==========================================================
+  [AI]  AI JOB AGENT  -  100% FREE  (Groq API Powered)
+  QA Engineer / Manual Tester Edition
+  Started : 21 Aug 2026  01:02
+==========================================================
+
+[INFO] STEP 2: Loaded 0 existing scraped jobs
+
+[INFO] STEP 3: Loaded 0 scored jobs
+
+[INFO] STEP 4: Auto-Apply 
+
+==========================================================
+  [AI]  AI JOB AGENT  -  100% FREE  (Groq API Powered)
+  QA Engineer / Manual Tester Edition
+  Started : 21 Aug 2026  01:03
+==========================================================
+
+[INFO] STEP 2: Loaded 0 existing scraped jobs
+
+[INFO] STEP 3: Loaded 0 scored jobs
+
+[INFO] STEP 4: Auto-Apply 
+❌ No scored jobs. Run ai_matcher.py first.
+
+==========================================================
+  [LOOP] Cycle #2 - waiting 60 minutes...
+  (stop anytime with Ctrl+C or the Stop button in the UI)
+==========================================================
+
+[STOP] Stop requested - exiting
+
+==========================================================
+  [AI]  AI JOB AGENT  -  100% FREE  (Groq API Powered)
+  QA Engineer / Manual Tester Edition
+  Started : 21 Aug 2026  01:04
+==========================================================
+
+[INFO] STEP 2: Loaded 0 existing scraped jobs
+
+[INFO] STEP 3: Loaded 0 scored jobs
+
+[INFO] STEP 4: Auto-Apply 
+❌ No scored jobs. Run ai_matcher.py first.
+
+==========================================================
+  [AI]  AI JOB AGENT  -  100% FREE  (Groq API Powered)
+  QA Engineer / Manual Tester Edition
+  Started : 21 Aug 2026  01:04
+==========================================================
+
+[INFO] STEP 2: Loaded 0 existing scraped jobs
+
+[INFO] STEP 3: Loaded 0 scored jobs
+
+[INFO] STEP 4: Auto-Apply 
+❌ No scored jobs. Run ai_matcher.py first.
+
+==========================================================
+  [LOOP] Cycle #2 - waiting 60 minutes...
+  (stop anytime with Ctrl+C or the Stop button in the UI)
+==========================================================
+
+==========================================================
+  [AI]  AI JOB AGENT  -  100% FREE  (Groq API Powered)
+  QA Engineer / Manual Tester Edition
+  Started : 21 Aug 2026  01:08
+==========================================================
+
+[INFO] STEP 2: Loaded 0 existing scraped jobs
+
+[INFO] STEP 3: Loaded 0 scored jobs
+
+[INFO] STEP 4: Auto-Apply 
+
+==========================================================
+  [AI]  AI JOB AGENT  -  100% FREE  (Groq API Powered)
+  QA Engineer / Manual Tester Edition
+  Started : 21 Aug 2026  01:37
+==========================================================
+
+[INFO] STEP 2: Loaded 0 existing scraped jobs
+
+[INFO] STEP 3: Loaded 0 scored jobs
+
+[INFO] STEP 4: Auto-Apply 
+❌ No scored jobs. Run ai_matcher.py first.
+
+==========================================================
+  [LOOP] Cycle #2 - waiting 60 minutes...
+  (stop anytime with Ctrl+C or the Stop button in the UI)
+==========================================================
+
+[STOP] Stop requested - exiting
